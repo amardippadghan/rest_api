@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "faker": "^6.6.6",
+    "json-server": "^0.17.3"
+  },
+  "name": "employee-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2"
+  }
+}
